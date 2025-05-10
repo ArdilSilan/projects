@@ -3,5 +3,5 @@ DB_CONFIG = {
     "port": 5432,
     "dbname": "GYK2Northwind",
     "user": "postgres",
-    "password": "1234"
+    "password": "****"
 }
